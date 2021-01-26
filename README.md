@@ -2,6 +2,8 @@
 Compiled info, links and other resource regarding aws services that I commonly used.
 
 # Lambda
+-INFO
+-COST = Free Tier?
 - https://aws.amazon.com/lambda/
 
 # API Gateway
